@@ -1,3 +1,5 @@
+
+
 # Restaurant Ordering System
 
 A modern platform designed to streamline restaurant operations, allowing customers to browse menus, place orders, and make payments seamlessly. This system enhances the dining experience for customers while improving efficiency for restaurant staff.
@@ -7,7 +9,7 @@ A modern platform designed to streamline restaurant operations, allowing custome
 ## Features
 
 - **User-Friendly Interface:** Customers can browse menus and customize orders with ease.  
-- **Real-Time Order Tracking:** View the status of orders in real-time.    
+- **Real-Time Order Tracking:** View the status of your orders in real-time.    
 - **Admin Dashboard:** Manage menus, orders, and customer details effortlessly.  
 - **Notifications:** Automated updates for order confirmations and completions.  
 
