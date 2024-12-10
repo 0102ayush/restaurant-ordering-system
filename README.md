@@ -1,7 +1,34 @@
-# restaurant-ordering-system
+# Restaurant Ordering System
 
-Watch Youtube video for set up, run, and demo
+A modern platform designed to streamline restaurant operations, allowing customers to browse menus, place orders, and make payments seamlessly. This system enhances the dining experience for customers while improving efficiency for restaurant staff.
 
-https://www.youtube.com/watch?v=Yf8zB4dXp7I
+---
 
-Give a star if you like it!
+## Features
+
+- **User-Friendly Interface:** Customers can browse menus and customize orders with ease.  
+- **Real-Time Order Tracking:** View the status of orders in real-time.    
+- **Admin Dashboard:** Manage menus, orders, and customer details effortlessly.  
+- **Notifications:** Automated updates for order confirmations and completions.  
+
+---
+
+## Technologies Used
+
+- **Frontend:** HTML, CSS, JavaScript (Vue.js)
+- **Backend:** Node.js, Express
+- **Database:** MySQL
+
+---
+
+## Getting Started
+
+### Prerequisites
+1. [Node.js](https://nodejs.org/) installed.  
+2. A running database instance (e.g., MySQL, MongoDB).  
+
+### Installation
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/0102ayush/restaurant-ordering-system.git
+   cd restaurant-ordering-system
